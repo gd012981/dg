@@ -12,18 +12,16 @@
 }
 #header3-8 H3 {
   color: #e25041;
+  text-align: center;
 }
-#pricing-table1-e DIV {
+#msg-box4-k .mbr-header__text {
   color: #ffffff;
 }
-#pricing-table1-e SPAN {
-  color: #000000;
+#msg-box4-k .mbr-header__subtext {
+  color: #ffffff;
 }
-#pricing-table1-e .mbr-plan__details UL {
-  color: #000000;
-}
-#pricing-table1-e SUP {
-  color: #000000;
+#msg-box4-k .mbr-article {
+  color: #ffffff;
 }
 #msg-box5-f .mbr-header__text {
   color: #ffffff;
