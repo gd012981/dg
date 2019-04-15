@@ -142,7 +142,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#f97352",
+            "bgColor": "#2969b0",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -156,7 +156,10 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "images/iphone.png"
+              "src": "@PROJECT_PATH@/assets/images/fuel-injector-700x467.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
@@ -170,8 +173,8 @@
               "size": 0
             }
           },
-          "title": "DRAG AND DROP WEBSITE BUILDER",
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.</p>",
+          "title": "FUEL INJECTOR CLEANING",
+          "text": "<p>Improve engine performance and gas mileage with a fuel system cleaning service from D&amp;G AUTO REPAIR. Because the filter, fuel pump and fuel injectors are all part of an interconnected system, these parts can get clogged with dirt and debris. A fuel injector cleaner is used to clean out all of the dirt, debris and build up in your fuel system. A clogged fuel system can damage other engine parts, which can quickly lead to deteriorated performance, fuel economy, and a complete engine shutdown if not regularly maintained.</p>",
           "_tags": [
             "Theme"
           ],
@@ -188,7 +191,7 @@
           },
           "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">APPOINTMENT</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-k"
         },
