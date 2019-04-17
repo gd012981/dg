@@ -44,6 +44,27 @@
 #msg-box4-n .mbr-article {
   color: #ffffff;
 }
+#msg-box4-o .mbr-header__text {
+  color: #000000;
+}
+#msg-box4-o .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-o .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-o .mbr-article P {
+  color: #000000;
+}
+#msg-box4-p .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-p .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-p .mbr-article {
+  color: #ffffff;
+}
 #msg-box5-f .mbr-header__text {
   color: #ffffff;
 }
