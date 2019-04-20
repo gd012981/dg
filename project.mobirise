@@ -6,14 +6,16 @@
       "name": "default",
       "title": "Mobirise",
       "styling": {},
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#ea1d1a"
+      ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.6",
     "siteFonts": [],
     "favicon": "",
     "noImageResize": "",
-    "uniqCompNum": 22,
+    "uniqCompNum": 23,
     "versionPublish": "4.9.6",
     "screenshot": "screenshot.png"
   },
@@ -110,22 +112,51 @@
           "_anchor": "header4-6"
         },
         {
-          "_params": {
-            "showMeta": true
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#ea1d1a"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
           },
-          "title": "Daniel: (561)860-2975<br>Gilmar (561)271-2278<br><br>BRAKE SERVICE • CODE SCAN • VEHICLE INSPECTION • ENGINE SERVICE • RADIATOR SERVICE • BELT &amp; HOSES • SHOCKS &amp; STRUTS • AC SERVICE-FREE CHECK UP",
-          "meta": "",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": false,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/cloudblock-1525x1193.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#28324e",
+            "overlayOpacity": 0.2
+          },
+          "title": "BRAKE SERVICE • CODE SCAN • VEHICLE INSPECTION • ENGINE SERVICE • RADIATOR SERVICE • BELT &amp; HOSES • SHOCKS &amp; STRUTS • AC SERVICE-FREE CHECK UP",
+          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-8",
-          "_styles": {
-            "H3": {
-              "color": "#e25041",
-              "text-align": "center"
-            }
-          }
+          "meta": "By John Smith posted July 30, 2015",
+          "_name": "content5",
+          "_anchor": "content5-m"
         },
         {
           "_params": {

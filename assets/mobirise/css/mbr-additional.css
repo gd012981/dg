@@ -10,9 +10,16 @@
 #ext_menu-9 .mbr-navbar__hamburger {
   color: #ffffff;
 }
-#header3-8 H3 {
-  color: #e25041;
+#content5-m .mbr-header .mbr-header__text {
   text-align: center;
+  color: #ea1d1a;
+}
+#content5-m .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-m .mbr-article {
+  color: #fff;
 }
 #msg-box4-k .mbr-header__text {
   color: #ffffff;
