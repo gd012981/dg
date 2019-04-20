@@ -135,7 +135,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/cloudblock-1-1525x1193.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/cloudblock-1525x1193.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
