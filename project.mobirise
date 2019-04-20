@@ -60,7 +60,7 @@
               "color": "#ffffff"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header4-6\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form1-4\">CONTACT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#gallery2-c\">PHOTOS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#map1-5\">ADDRESS</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header4-6\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts2-l\">CONTACT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#gallery2-c\">PHOTOS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#map1-5\">ADDRESS</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -540,7 +540,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#000000",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
@@ -794,21 +794,6 @@
               "text": "<p class=\"mbr-reviews__p\">My ac wasn't cooling properly. i had it checked and all it needed was some refrigerant. They checked the whole system and now it's running great!</p>"
             }
           ]
-        },
-        {
-          "_params": {
-            "googleMap": {
-              "address": "D&G AUTO REPAIR\n714 Barnett Drive, Bay #24, Lake Worth, FL 33461",
-              "placeId": "Ei0yNCwgNzE0IEJhcm5ldHQgRHIsIExha2UgV29ydGgsIEZMIDMzNDYxLCBVU0EiHhocChYKFAoSCd9kQFY72NiIETO_W3BZfiUjEgIyNA",
-              "state": "ok",
-              "stateDetails": ""
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "map1",
-          "_anchor": "map1-5"
         }
       ]
     }
