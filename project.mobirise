@@ -1,21 +1,19 @@
 {
   "settings": {
-    "name": "DG Auto",
+    "name": "DG Auto incmplete",
     "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
       "styling": {},
-      "additionalSetColors": [
-        "#ea1d1a"
-      ]
+      "additionalSetColors": []
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.6",
     "siteFonts": [],
     "favicon": "",
     "noImageResize": "",
-    "uniqCompNum": 23,
+    "uniqCompNum": 24,
     "versionPublish": "4.9.6",
     "screenshot": "screenshot.png"
   },
@@ -148,7 +146,7 @@
             "overlayColor": "#28324e",
             "overlayOpacity": 0.2
           },
-          "title": "BRAKE SERVICE • CODE SCAN • VEHICLE INSPECTION • ENGINE SERVICE • RADIATOR SERVICE • BELT &amp; HOSES • SHOCKS &amp; STRUTS • AC SERVICE-FREE CHECK UP",
+          "title": "BRAKE SERVICE • CODE SCAN • VEHICLE INSPECTION • ENGINE SERVICE • RADIATOR SERVICE • BELT &amp; HOSES • SHOCKS &amp; STRUTS • AC SERVICE-FREE CHECK UP!",
           "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
@@ -533,6 +531,34 @@
         },
         {
           "_params": {
+            "showText": true,
+            "outside": false,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/flyer-1400x888.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-n"
+        },
+        {
+          "_params": {
             "showTitle": true,
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -578,7 +604,12 @@
             "Theme"
           ],
           "_name": "form1",
-          "_anchor": "form1-4"
+          "_anchor": "form1-4",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#cccccc"
+            }
+          }
         },
         {
           "_inherit": "gallery1",
