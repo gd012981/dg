@@ -917,20 +917,12 @@
             "bgColor": "#000000",
             "images": [
               {
-                "image": "images/slide8.jpg",
-                "thumb": "images/slide8-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
                 "image": "@PROJECT_PATH@/assets/images/img-20190415-wa0003-1600x777.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-20190415-wa0003-1600x777-800x389.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/img-20190415-wa0002-1600x777.jpg",
