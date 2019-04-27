@@ -833,33 +833,6 @@
             "fullWidth": false,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "noGutter": true,
-            "showText": false,
-            "showBullets": true,
-            "bgColor": "#000000",
-            "images": [
-              {
-                "image": "images/slide8.jpg",
-                "thumb": "images/slide8-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": true
-              }
-            ]
-          },
-          "articleLayout": false,
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery1",
-          "_anchor": "gallery1-y"
-        },
-        {
-          "_params": {
-            "fullWidth": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
             "noGutter": false,
             "showText": false,
             "showBullets": true,
