@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "DG Auto incmplete",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -13,7 +13,7 @@
     "siteFonts": [],
     "favicon": "",
     "noImageResize": "",
-    "uniqCompNum": 40,
+    "uniqCompNum": 41,
     "versionPublish": "4.9.6",
     "screenshot": "screenshot.png"
   },
@@ -638,6 +638,33 @@
           ],
           "_name": "image2",
           "_anchor": "image2-13"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": true,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=PRPqN2wE4Hw&feature=youtu.be",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Cut down the development time with drag-and-drop website builder.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-14"
         },
         {
           "_styles": {
