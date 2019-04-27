@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "DG Auto incmplete",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -13,7 +13,7 @@
     "siteFonts": [],
     "favicon": "",
     "noImageResize": "",
-    "uniqCompNum": 24,
+    "uniqCompNum": 30,
     "versionPublish": "4.9.6",
     "screenshot": "screenshot.png"
   },
@@ -612,103 +612,6 @@
           }
         },
         {
-          "_inherit": "gallery1",
-          "_params": {
-            "fullWidth": false,
-            "noGutter": false,
-            "showText": true,
-            "showBullets": false,
-            "images": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-20190412-202225-1-699x1440.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20190412-202225-1-699x1440-699x1440.jpg",
-                "alt": "",
-                "title": "aaaaaaa",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/20190413-110328-2000x972.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/20190413-110328-2000x972-652x316.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-20190412-202218-1-699x1440.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20190412-202218-1-699x1440-699x1440.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-20190412-202222-1-1600x777.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20190412-202222-1-1600x777-800x389.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-20190412-202238-1-1200x583.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20190412-202238-1-1200x583-800x389.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/24-1600x777.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/24-1600x777-800x389.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/20190413-105453-1960x4032.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/20190413-105453-1960x4032-800x1646.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-20190412-202205-1-1600x777.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20190412-202205-1-1600x777-800x389.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-20190412-202233-1-699x1440.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20190412-202233-1-699x1440-699x1440.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/20190413-105546-revised-1600x778.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/20190413-105546-revised-1600x778-800x389.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              }
-            ]
-          },
-          "articleLayout": true,
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery2",
-          "_anchor": "gallery2-c"
-        },
-        {
           "_styles": {
             ".mbr-header__text": {
               "color": "#ffffff"
@@ -825,6 +728,174 @@
               "text": "<p class=\"mbr-reviews__p\">My ac wasn't cooling properly. i had it checked and all it needed was some refrigerant. They checked the whole system and now it's running great!</p>"
             }
           ]
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "meta_descr": "Web Page Creator Description",
+        "title": "Photos",
+        "order": 2
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-link\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header4-6\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts2-l\">CONTACT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#gallery2-c\">PHOTOS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#map1-5\">ADDRESS</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">G &amp; D AUTO REPAIR</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-o"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "2012 Mazda 6, 4 CylindersTurbo",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-t"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "fullWidth": false,
+            "noGutter": false,
+            "showText": true,
+            "showBullets": false,
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20190412-202225-1-699x1440.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20190412-202225-1-699x1440-699x1440.jpg",
+                "alt": "",
+                "title": "aaaaaaa",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20190413-110328-2000x972.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20190413-110328-2000x972-652x316.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20190412-202218-1-699x1440.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20190412-202218-1-699x1440-699x1440.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20190412-202222-1-1600x777.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20190412-202222-1-1600x777-800x389.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20190412-202238-1-1200x583.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20190412-202238-1-1200x583-800x389.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/24-1600x777.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/24-1600x777-800x389.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20190413-105453-1960x4032.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20190413-105453-1960x4032-800x1646.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20190412-202205-1-1600x777.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20190412-202205-1-1600x777-800x389.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20190412-202233-1-699x1440.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20190412-202233-1-699x1440-699x1440.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20190413-105546-revised-1600x778.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20190413-105546-revised-1600x778-800x389.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": true,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_anchor": "gallery2-s"
         }
       ]
     }
