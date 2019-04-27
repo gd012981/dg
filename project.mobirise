@@ -792,7 +792,7 @@
           "_params": {
             "showMeta": false
           },
-          "title": "2012 Mazda 6, 4 CylindersTurbo",
+          "title": "2012 Mazda 6, 4 Cylinders Turbo",
           "meta": "",
           "_tags": [
             "Theme"
@@ -904,7 +904,12 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-u"
+          "_anchor": "header3-u",
+          "_styles": {
+            "H3": {
+              "text-align": "center"
+            }
+          }
         },
         {
           "_params": {
@@ -1031,7 +1036,12 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-10"
+          "_anchor": "header3-10",
+          "_styles": {
+            "H3": {
+              "text-align": "center"
+            }
+          }
         },
         {
           "_params": {
