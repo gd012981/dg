@@ -175,7 +175,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>714 Barnett Dr #24\n<br>714 Barnett Dr, Lake Worth, FL 33461\n<br><br>\n<strong>CONTACTS</strong><br>\nEmail: <a href=\"mailto:danieln1@live.com\">danieln1@live.com</a><br>\nPhone: Daniel: <a href=\"tel:561-860-2975\">561-860-2975</a><br>Phone: Gilmar <a href=\"tel:561-271-2278\">561-271-2278</a>",
+          "text1": "<strong>ADDRESS</strong><br>714 Barnett Dr #24\n<br>714 Barnett Dr, Lake Worth, FL 33461\n<br><br>\n<strong>CONTACTS</strong><br>\nEmail: danieln1@live.com<br>\nPhone: Daniel: <a href=\"tel:561-860-2975\">561-860-2975</a><br>Phone: Gilmar <a href=\"tel:561-271-2278\">561-271-2278</a>",
           "text2": "<ul class=\"mbr-contacts__list\"></ul>",
           "_tags": [
             "Theme"
