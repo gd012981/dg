@@ -13,7 +13,7 @@
     "siteFonts": [],
     "favicon": "",
     "noImageResize": "",
-    "uniqCompNum": 35,
+    "uniqCompNum": 37,
     "versionPublish": "4.9.6",
     "screenshot": "screenshot.png"
   },
@@ -905,6 +905,141 @@
           ],
           "_name": "header3",
           "_anchor": "header3-u"
+        },
+        {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": false,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#000000",
+            "images": [
+              {
+                "image": "images/slide8.jpg",
+                "thumb": "images/slide8-small.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20190415-wa0003-1600x777.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20190415-wa0003-1600x777-800x389.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20190415-wa0002-1600x777.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20190415-wa0002-1600x777-800x389.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20190415-wa0004-1600x777.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20190415-wa0004-1600x777-800x389.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20190415-wa0007-1600x777.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20190415-wa0007-1600x777-800x389.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20190415-wa0011-1600x777.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20190415-wa0011-1600x777-800x389.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20190415-wa0005-1600x777.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20190415-wa0005-1600x777-800x389.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20190415-wa0013-1600x777.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20190415-wa0013-1600x777-800x389.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20190415-wa0008-1600x777.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20190415-wa0008-1600x777-800x389.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20190415-wa0006-1600x777.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20190415-wa0006-1600x777-800x389.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20190415-wa0012-1600x777.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20190415-wa0012-1600x777-800x389.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20190415-wa0010-1600x777.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20190415-wa0010-1600x777-800x389.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20190415-wa0009-1600x777.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20190415-wa0009-1600x777-800x389.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-z"
+        },
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "DROP-DEAD EASY WEBSITE MAKER",
+          "meta": "By John Smith posted July 30, 2015",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-10"
         }
       ]
     }
