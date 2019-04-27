@@ -164,7 +164,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#3c3c3c",
+            "bgColor": "#fac51c",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -175,13 +175,21 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>714 Barnett Dr #24\n<br>714 Barnett Dr, Lake Worth, FL 33461\n<br><br>\n<strong>CONTACTS</strong><br>\nEmail: danieln1@live.com<br>\nPhone: Daniel: 561-860-2975<br>Phone: Gilmar 561-271-2278",
+          "text1": "<strong>ADDRESS</strong><br>714 Barnett Dr #24\n<br>714 Barnett Dr, Lake Worth, FL 33461\n<br><br>\n<strong>CONTACTS</strong><br>\nEmail: <a href=\"mailto:danieln1@live.com\">danieln1@live.com</a><br>\nPhone: Daniel: <a href=\"tel:561-860-2975\">561-860-2975</a><br>Phone: Gilmar <a href=\"tel:561-271-2278\">561-271-2278</a>",
           "text2": "<ul class=\"mbr-contacts__list\"></ul>",
           "_tags": [
             "Theme"
           ],
           "_name": "contacts2",
-          "_anchor": "contacts2-l"
+          "_anchor": "contacts2-l",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            },
+            "STRONG": {
+              "color": "#000000"
+            }
+          }
         },
         {
           "_inherit": "msg-box5",
@@ -257,7 +265,7 @@
             "showTitle": true,
             "showMeta": false,
             "showText": true,
-            "showButtons": false,
+            "showButtons": true,
             "inverse": true,
             "imageSize": 50,
             "paddingTop": 3,
