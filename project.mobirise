@@ -612,37 +612,9 @@
           }
         },
         {
-          "_params": {
-            "showText": false,
-            "outside": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/video-1-1081x611.png",
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "link": "https://www.facebook.com/693417490766040/videos/1552304921543955/?v=1552304921543955",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-13"
-        },
-        {
           "_styles": {},
           "_params": {
-            "showText": true,
+            "showText": false,
             "bgColor": "#252525"
           },
           "media": {
