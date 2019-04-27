@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "DG Auto incmplete",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -790,7 +790,7 @@
         },
         {
           "_params": {
-            "showMeta": true
+            "showMeta": false
           },
           "title": "2012 Mazda 6, 4 CylindersTurbo",
           "meta": "",
@@ -805,7 +805,7 @@
           "_params": {
             "fullWidth": false,
             "noGutter": false,
-            "showText": true,
+            "showText": false,
             "showBullets": false,
             "images": [
               {
