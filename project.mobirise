@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "DG Auto incmplete",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -1082,20 +1082,12 @@
             "bgColor": "#000000",
             "images": [
               {
-                "image": "images/slide8.jpg",
-                "thumb": "images/slide8-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
                 "image": "@PROJECT_PATH@/assets/images/img-20190415-wa0017-1600x777.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-20190415-wa0017-1600x777-800x389.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/img-20190415-wa0019-1600x777.jpg",
