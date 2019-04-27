@@ -808,7 +808,7 @@
             "noGutter": true,
             "showText": false,
             "showBullets": true,
-            "bgColor": "#4c6972",
+            "bgColor": "#000000",
             "images": [
               {
                 "image": "images/slide8.jpg",
